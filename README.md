@@ -1,2 +1,2 @@
 # ENGG
-ENGG1210 Synthesis from UoG
+ENGG Subjects Synthesis from UoG
